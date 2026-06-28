@@ -22,7 +22,7 @@ I'm Lorhan, 19 years old, i'm studied technology (exceptions) for at least 2 yea
 
 ## Work on progress 🧑‍💻
 
-<a href="https://github.com/LorhanFigueira/gamedaily_public_version">GameDaily</a> - Main Project <br>
+<a href="https://github.com/LorhanFigueira/gamedaily_public_version">GameDaily</a> - Main Project ( Working on Update ) <br>
 <a href="https://github.com/LorhanFigueira/applied-resources-calculator">AppliedCalculator</a> - Side Project
 
 ## Contacts 📱
