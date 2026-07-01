@@ -1,6 +1,6 @@
 # Hello! i'm Lorhan Figueira ⭐
 
-I'm Lorhan, 19 years old, i'm studied technology (exceptions) for at least 2 years ago, focusing solely on theory, and put my experience into pratice a year ago. Now, I can confidently to say that my areas of expertise are Programming and Basic Data Science. 
+I'm Lorhan, 19 years old,I can confidently to say that my areas of expertise are Programming and Basic Data Science. 
 
 ## Tecnology & Tools 🧑‍🔧
 
